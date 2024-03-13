@@ -1,8 +1,8 @@
 ## Oi eu sou o Wisley Mozer, desenvolvedor Full Stack apaixonado por Programação! <img src="https://user-images.githubusercontent.com/95504029/151560441-2e792d97-fd65-462c-8fd7-70f581de5674.gif" width="100">
 <div align="center">
   <a href="https://github.com/WisleyM">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=WisleyMozer&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WisleyMozer&layout=compact&langs_count=7&theme=chartreuse-dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=WisleyM&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WisleyM&layout=compact&langs_count=7&theme=chartreuse-dark"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/947324026236330018/947325365930582046/AvatarMaker.png">
